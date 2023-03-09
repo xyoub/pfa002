@@ -70,3 +70,4 @@ class Select extends Connection{
     return mysqli_fetch_assoc($result);
   }
 }
+?>

@@ -7,7 +7,9 @@ html {
     font-family: sans-serif;
     background: linear-gradient(#141e30, #243b55);
   }
-  
+  button{
+    all:unset;
+  }
   .login-box {
     position: absolute;
     top: 50%;
